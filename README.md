@@ -96,9 +96,8 @@ feedparser
 protobuf==3.20.2
 wandb
 jupyterlab
-gradio
-langchain_huggingface
-litellm
 
-*** Run the command to install all the dependecies from requirements.txt
-uv add -r requirements.txt
+# pip venv creation in MAC
+Check python version python --version
+Create virtual environment python -m venv .venv
+Activate Virtual environment source .venv/bin/activate
