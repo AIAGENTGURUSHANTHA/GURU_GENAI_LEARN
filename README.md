@@ -36,3 +36,5 @@
 4. git branch -M main
 5. git git remote add origin https://github.com/AIAGENTGURUSHANTHA/GURU_GENAI_LEARN.git
 6. git push -u origin main
+
+Code from MAC
