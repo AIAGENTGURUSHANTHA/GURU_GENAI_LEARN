@@ -40,3 +40,7 @@
 Code from MAC
 
 code from windows
+
+# To Run the .ipynb file in windows and MAC both
+* install ipykernel and pip package
+
