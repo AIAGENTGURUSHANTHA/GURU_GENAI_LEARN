@@ -17,6 +17,17 @@
 
 8. virtual environment is created with (folder_name)
 
+# UV installation in Mac
+
+1. Create a folder
+2. UV package installer
+        curl -LsSf https://astral.sh/uv/install.sh | sh
+3. Uv init
+4. Uv —version
+5. Uv venv
+6. Source .venv/bin/activate —> it activate the virtual environment with (folder name)
+
+
 # Git commands to push the code in github
 
 1. git init
