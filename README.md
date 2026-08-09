@@ -44,3 +44,61 @@ code from windows
 # To Run the .ipynb file in windows and MAC both
 * install ipykernel and pip package
 
+# Requirements file
+* Windows -> Create requirements.txt file
+* MAC: -> touch requirements.txt
+
+
+Add the below complete list in the file
+langchain
+langchain_community
+langchain-openai
+langchain-groq
+python-dotenv
+langchain-google-genai
+ipykernel
+pandas
+python-dotenv
+ipykernel
+ipywidgets
+requests
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+torch
+transformers
+tqdm
+openai
+gradio
+langchain
+langchain-core
+langchain-text-splitters
+langchain-openai
+langchain-chroma
+langchain-community
+datasets==3.6.0
+google-generativeai
+anthropic
+chromadb
+plotly
+jupyter-dash
+beautifulsoup4
+pydub
+modal
+ollama
+psutil
+setuptools
+speedtest-cli
+sentence_transformers
+feedparser
+protobuf==3.20.2
+wandb
+jupyterlab
+gradio
+langchain_huggingface
+litellm
+
+*** Run the command to install all the dependecies from requirements.txt
+uv add -r requirements.txt
