@@ -1,0 +1,17 @@
+[project]
+name = "guru-genai-learn"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "dsgurushantha10", email = "dsgurushantha10@gmail.com" }
+]
+requires-python = ">=3.14"
+dependencies = []
+
+[project.scripts]
+guru-genai-learn = "guru_genai_learn:main"
+
+[build-system]
+requires = ["uv_build>=0.12.3,<0.13.0"]
+build-backend = "uv_build"
